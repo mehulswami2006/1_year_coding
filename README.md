@@ -45,7 +45,6 @@ difficulty over time.
 ## 🗂 Repository Structure
 
 - One folder per day
-- One problem per file
 - Clear and descriptive file names
 - Difficulty increases gradually
 
